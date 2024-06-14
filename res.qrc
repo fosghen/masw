@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file>icons/left.png</file>
+    <file>icons/right.png</file>
+    <file>icons/iconofwind.png</file>
+  </qresource>
+</RCC>

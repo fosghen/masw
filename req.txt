@@ -1,0 +1,8 @@
+PySide2
+PyQt5
+matplotlib
+segyio
+numpy
+scipy
+disba
+joblib
